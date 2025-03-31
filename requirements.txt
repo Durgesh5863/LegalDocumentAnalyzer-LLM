@@ -1,0 +1,5 @@
+fitz
+PyMuPDF
+torch
+transformers
+spacy
